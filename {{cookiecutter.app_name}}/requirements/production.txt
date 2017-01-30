@@ -12,7 +12,7 @@ click>=5.0
 gunicorn>=19.1.1
 
 # API
-marshmallow==2.12.1
+marshmallow==2.12.2
 simplejson==3.10.0
 Flask-RESTful==0.3.5
 
