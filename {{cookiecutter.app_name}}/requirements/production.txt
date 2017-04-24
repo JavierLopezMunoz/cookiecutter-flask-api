@@ -16,3 +16,6 @@ flask-apispec==0.3.2
 
 # Auth
 Flask-HTTPAuth==3.2.2
+
+# Deployment
+zappa==0.41.0
