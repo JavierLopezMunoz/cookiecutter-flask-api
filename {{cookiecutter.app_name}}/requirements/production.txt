@@ -12,7 +12,6 @@ simplejson==3.10.0
 webargs==1.6.3
 marshmallow==2.13.5
 flask-marshmallow==0.7.0
-flask-apispec==0.3.2
 
 # Auth
 Flask-HTTPAuth==3.2.2
