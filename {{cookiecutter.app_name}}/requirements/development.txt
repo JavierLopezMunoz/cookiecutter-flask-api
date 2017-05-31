@@ -2,7 +2,7 @@
 -r production.txt
 
 # Testing
-pytest==3.1.0
+pytest==3.1.1
 ipdb==0.10.3
 factory-boy==2.8.1
 datadiff==2.0.0
