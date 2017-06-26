@@ -8,7 +8,7 @@ itsdangerous==0.24
 click>=5.0
 
 # API
-simplejson==3.10.0
+simplejson==3.11.1
 webargs==1.7.0
 marshmallow==2.13.5
 flask-marshmallow==0.8.0
