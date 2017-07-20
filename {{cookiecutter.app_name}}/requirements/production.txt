@@ -17,4 +17,4 @@ flask-marshmallow==0.8.0
 Flask-HTTPAuth==3.2.3
 
 # Deployment
-zappa==0.42.2
+zappa==0.43.1
