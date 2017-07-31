@@ -16,5 +16,5 @@ flask-marshmallow==0.8.0
 # Auth
 Flask-HTTPAuth==3.2.3
 
-# Deployment
-zappa==0.43.1
+# Monitoring
+raven[flask]==6.1.0
