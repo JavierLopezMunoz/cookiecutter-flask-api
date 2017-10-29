@@ -17,4 +17,4 @@ flask-marshmallow==0.8.0
 Flask-HTTPAuth==3.2.3
 
 # Monitoring
-raven[flask]==6.1.0
+raven[flask]==6.3.0
