@@ -5,7 +5,7 @@
 pytest
 ipdb
 factory-boy
-datadiff
+datadiff==2.0.0
 
 # Lint and code style
 flake8
