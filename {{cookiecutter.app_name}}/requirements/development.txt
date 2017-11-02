@@ -14,5 +14,5 @@ flake8-debugger
 flake8-docstrings
 flake8-isort
 flake8-quotes
-isort
+isort==4.2.15
 pep8-naming
