@@ -8,7 +8,7 @@ factory-boy
 datadiff
 
 # Lint and code style
-flake8
+flake8==3.5.0
 flake8-blind-except
 flake8-debugger
 flake8-docstrings
