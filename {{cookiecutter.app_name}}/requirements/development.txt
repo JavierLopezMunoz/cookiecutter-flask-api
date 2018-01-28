@@ -4,7 +4,7 @@
 # Testing
 pytest
 ipdb
-factory-boy
+factory-boy==2.10.0
 datadiff
 
 # Lint and code style
