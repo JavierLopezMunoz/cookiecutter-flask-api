@@ -15,4 +15,4 @@ flake8-docstrings
 flake8-isort
 flake8-quotes
 isort
-pep8-naming
+pep8-naming==0.6.1
